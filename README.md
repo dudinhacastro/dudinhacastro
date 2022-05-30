@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @dudinhacastro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Seção
+## Subseção 1
+_Editando o perfil_
 
-<!---
-dudinhacastro/dudinhacastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Subseção 2
+**Editando o perfil**
+
+## Exemplo de código 
+
+```
+<html>
+<h1> Editando o perfil </h1>
+</html>
+```
